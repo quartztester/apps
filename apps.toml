@@ -3963,6 +3963,14 @@ state = "working"
 subtags = [ "task" ]
 url = "https://github.com/YunoHost-Apps/nullboard_ynh"
 
+[obsidian]
+added_date = 1793984256 # 2026/11/06
+branch = "main"
+category = "office"
+state = "working"
+subtags = [ "text" ]
+url = "https://github.com/YunoHost-Apps/obsidian_ynh"
+
 [octoprint]
 added_date = 1708461644 # 2024/02/20
 branch = "master"

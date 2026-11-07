@@ -1646,6 +1646,13 @@ potential_alternative_to = [ "Strava" ]
 state = "working"
 url = "https://github.com/Yunohost-Apps/fittrackee_ynh"
 
+[flaresolverr]
+branch = "master"
+category = "system_tools"
+state = "working"
+subtags = [ "network" ]
+url = "https://github.com/YunoHost-Apps/flaresolverr_ynh"
+
 [flarum]
 added_date = 1674232499 # 2023/01/20
 branch = "master"

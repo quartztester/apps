@@ -1030,12 +1030,6 @@ upstream = "https://github.com/basecamp/fizzy"
 website = "https://fizzy.do"
 added_date = 1766085830  # 2025/12/18
 
-[flaresolverr]
-name = "FlareSolverr"
-description = "Proxy server to bypass Cloudflare protection"
-upstream = "https://github.com/FlareSolverr/FlareSolverr"
-website = ""
-added_date = 1695656621  # 2023/09/25
 
 [flopedt]
 name = "flopEDT"

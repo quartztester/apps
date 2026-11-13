@@ -3,7 +3,7 @@ name = "ass"
 description = "ShareX upload server written in Node.js."
 upstream = "https://github.com/tycrek/ass"
 website = ""
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "unmaintained"
 
 [beatbump]
@@ -11,7 +11,7 @@ name = "Beatbump"
 description = "An alternative frontend for YouTube Music"
 upstream = "https://github.com/snuffyDev/Beatbump"
 website = "https://beatbump.io/home"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "unmaintained"
 
 [brandcraft]
@@ -19,7 +19,7 @@ name = "BrandCraft"
 description = "BrandCraft simplifies the process of managing and scheduling content across multiple social media."
 upstream = "https://github.com/sevleo/BrandCraft"
 website = "https://publora.com"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "deleted"
 
 [ephemera]
@@ -27,7 +27,7 @@ name = "Ephemera"
 description = "Search and download books from your girl's favorite archive."
 upstream = "https://github.com/OrwellianEpilogue/ephemera"
 website = "https://github.com/OrwellianEpilogue/ephemera"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "deleted"
 
 [farside]
@@ -35,7 +35,7 @@ name = "Farside"
 description = "A redirecting service for FOSS alternative frontends"
 upstream = "https://github.com/benbusby/farside"
 website = "https://farside.link/"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "unmaintained"
 
 [foutain-ink]
@@ -43,7 +43,7 @@ name = "Foutain ink"
 description = "Self-hostable web3 alternative to Medium, Substack, and Mirror."
 upstream = "https://github.com/fountain-ink/app"
 website = ""
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "unmaintained"
 
 [geovisio]
@@ -51,7 +51,7 @@ name = "GeoVisio"
 description = "Self-hosting geo-located street pictures solution"
 upstream = "https://gitlab.com/geovisio"
 website = "https://geovisio.fr/"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "deleted"
 
 [guppe]
@@ -59,7 +59,7 @@ name = "Guppe"
 description = "Social groups for the fediverse. Connect and meet new people based on shared interests"
 upstream = "https://github.com/immers-space/guppe"
 website = "https://a.gup.pe/"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "unmaintained"
 
 [hydroxide]
@@ -67,7 +67,7 @@ name = "Hydroxide"
 description = "A third party, open-source Proton Mail CardDAV, IMAP and SMTP bridge."
 upstream = "https://github.com/emersion/hydroxide"
 website = ""
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "unmaintained"
 
 [inventaire]
@@ -75,7 +75,7 @@ name = "Inventaire"
 description = "A collaborative resource mapper powered by open-knowledge, starting with books!"
 upstream = "https://github.com/inventaire/inventaire"
 website = "https://inventaire.io"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "unmaintained"
 
 [l-atelier]
@@ -83,7 +83,7 @@ name = "L'atelier"
 description = "A project management tool"
 upstream = "https://github.com/jbl2024/latelier"
 website = "https://jbl2024.github.io/latelier-page/"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "unmaintained"
 
 [maidsafe]
@@ -91,7 +91,7 @@ name = "MaidSafe"
 description = "The Safe Network Core. API message definitions, routing and nodes, client core api."
 upstream = "https://github.com/maidsafe/safe_network"
 website = "https://maidsafe.net"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "deleted"
 
 [obsidian]
@@ -99,7 +99,7 @@ name = "Obsidian"
 description = "Alternative to Notion"
 upstream = "https://github.com/alangrainger/share-note-self-hosted-backend"
 website = "https://obsidian.md"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "deleted"
 
 [officelife]
@@ -107,7 +107,7 @@ name = "officelife"
 description = "Manages everything employees do in a company. From projects to holidays to 1:1s to teams..."
 upstream = "https://github.com/officelifehq/officelife"
 website = "https://demo.officelife.io/"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "unmaintained"
 
 [ohmyform]
@@ -115,7 +115,7 @@ name = "OhMyForm"
 description = "Alternative to TypeForm, TellForm, or Google Forms"
 upstream = "https://github.com/ohmyform/ohmyform"
 website = "https://ohmyform.com/"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "unmaintained"
 
 [peppermint]
@@ -123,7 +123,7 @@ name = "Peppermint"
 description = "A central hub for your help desk. A powerfully easy system for tracking, prioritising, and solving customer support tickets"
 upstream = "https://github.com/Peppermint-Lab/peppermint"
 website = "https://peppermint.sh/"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "unmaintained"
 
 [polotno-studio]
@@ -131,7 +131,7 @@ name = "Polotno Studio"
 description = "Online Design Editor. Alternative to Canva."
 upstream = "https://github.com/polotno-project/polotno-studio"
 website = "https://polotno.com"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "deleted"
 
 [savapage]
@@ -139,7 +139,7 @@ name = "savapage"
 description = "Open Print Portal"
 upstream = "https://gitlab.com/savapage"
 website = "https://www.savapage.org/"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "deleted"
 
 [sillytavern]
@@ -430,7 +430,7 @@ name = "Wafrn"
 description = "A social media website similar to Tumblr. Social-oriented blogging with tags and quote replies."
 upstream = "https://github.com/gabboman/wafrn"
 website = "https://app.wafrn.net"
-rejection_pr = "https://github.com/quartztester/apps/pull/0000"
+rejection_pr = "https://github.com/quartztester/apps/pull/4"
 reason = "unmaintained"
 
 [wazuh]
